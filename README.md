@@ -33,7 +33,7 @@ The primary datasets used for the analysis was gotten form the link " https://he
 
 ### Preparation
 
-I Created the following columns for visualization that would help with getting the result needed.
+I created the following columns for visualization that would help with getting the result needed.
 
 1. Month name column
 2. Month Number column
